@@ -1,20 +1,13 @@
 var reverseString = function(s) {
-  //setting up left and right pointers
   let left = 0;
-  let right = input.length - 1;
+  let right = s.length - 1;
 
-  //set up while loop
   while (left <= right) {
-    //perform reversal
-    //temp var so we can store one while setting other
-    let temp = input[left];
-    //set right to left
-    input[left] = input[right];
-    //then set right to temp
-    input[right] = temp;
-    //decrement right to proceed loop
+    let temp = s[left];
+    s[left] = s[right];
+    s[right] = temp;
     right--;
     left++;
   }
-  return input;
+  return s;
 }
