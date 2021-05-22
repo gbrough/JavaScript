@@ -1,13 +1,13 @@
 var reverseString = function(s) {
-  let left = 0;
-  let right = s.length - 1;
+  let first = 0;
+  let last = s.length - 1;
 
-  while (left <= right) {
-    let temp = s[left];
-    s[left] = s[right];
-    s[right] = temp;
-    right--;
-    left++;
+  while (first <= last) {
+    let temp = s[first];
+    s[first] = s[last];
+    s[last] = temp;
+    last--;
+    first++;
   }
   return s;
 }
