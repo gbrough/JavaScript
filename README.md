@@ -14,5 +14,5 @@
 | Decompress Run-Length Encoded List| Array | [JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Decompress%20Run-Length%20Encoded%20List.js)|[YouTube](https://www.youtube.com/watch?v=LtzzpN687F8)|
 | Number of Steps to Reduce a Number to Zero| Bit Manipulation |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js)|[YouTube](https://www.youtube.com/watch?v=jK4FStkuJ5A)|
 | Decode XORed Array| Bit Manipulation | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Decode%20XORed%20Array.py)|[YouTube](https://www.youtube.com/watch?v=FZBkXnDxCLg)
-| Create Target Array in the Given Order| Array | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Create%20Target%20Array%20in%20the%20Given%20Order.py)|[YouTube]()
-| Reverse String| Two Pointers |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Reverse%20String.js)|[YouTube]()
+| Create Target Array in the Given Order| Array | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Create%20Target%20Array%20in%20the%20Given%20Order.py)|[YouTube](https://youtu.be/Hlfs4StVd-o)
+| Reverse String| Two Pointers |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Reverse%20String.js)|[YouTube](https://youtu.be/NYKo0ETz3q8)
