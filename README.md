@@ -16,3 +16,6 @@
 | Decode XORed Array| Bit Manipulation | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Decode%20XORed%20Array.py)|[YouTube](https://www.youtube.com/watch?v=FZBkXnDxCLg)
 | Create Target Array in the Given Order| Array | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Create%20Target%20Array%20in%20the%20Given%20Order.py)|[YouTube](https://youtu.be/Hlfs4StVd-o)
 | Reverse String| Two Pointers |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Reverse%20String.js)|[YouTube](https://youtu.be/NYKo0ETz3q8)
+| Goal Parser Interpretation| TBD |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Goal%20Parser%20Interpretation.js)|[YouTube]()
+
+
