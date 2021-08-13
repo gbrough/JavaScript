@@ -17,6 +17,6 @@
 | Create Target Array in the Given Order| Array | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Create%20Target%20Array%20in%20the%20Given%20Order.py)|[YouTube](https://youtu.be/Hlfs4StVd-o)
 | Reverse String| Two Pointers |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Reverse%20String.js)|[YouTube](https://youtu.be/NYKo0ETz3q8)
 | Goal Parser Interpretation| String |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Goal%20Parser%20Interpretation.js)|[YouTube]()
- Count Items Matching a Rule | Array, Hash Table  | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Count%20Items%20Matching%20a%20Rule.py) | [YouTube]()| 
+ Count Items Matching a Rule |   | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Count%20Items%20Matching%20a%20Rule.py) | [YouTube]()| 
 
 
