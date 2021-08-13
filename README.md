@@ -17,7 +17,7 @@
 | Create Target Array in the Given Order| Array | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Create%20Target%20Array%20in%20the%20Given%20Order.py)|[YouTube](https://youtu.be/Hlfs4StVd-o)
 | Reverse String| Two Pointers |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Reverse%20String.js)|[YouTube](https://youtu.be/NYKo0ETz3q8)
 | Goal Parser Interpretation| String |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Goal%20Parser%20Interpretation.js)| |
- Count Items Matching a Rule |   | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Count%20Items%20Matching%20a%20Rule.py) | | 
-  Split a String in Balanced Strings |   | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Split%20a%20String%20in%20Balanced%20Strings.py) | | 
-  Find Center of Star Graph |   | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Find%20Center%20of%20Star%20Graph.py) | | 
+ Count Items Matching a Rule | Array, String  | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Count%20Items%20Matching%20a%20Rule.py) | | 
+  Split a String in Balanced Strings | String, Greedy, Counting  | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Split%20a%20String%20in%20Balanced%20Strings.py) | | 
+  Find Center of Star Graph | Graph  | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Find%20Center%20of%20Star%20Graph.py) | | 
 
