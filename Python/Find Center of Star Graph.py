@@ -1,8 +1,9 @@
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
-        x = edges[0][0]
-        y = edges[0][1]
-        if edges[1][0] == x or edges[1][1] == x:
-            return x
+        node_a = edges[0][0]
+        node_b = edges[0][1]
+        if edges[1][0] == node_a or edges[1][1] == node_a:
+            return node_a
         else:
-            return y
+            edges[1][0] == node_b or edges[1][1] == node_b 
+            return node_b
