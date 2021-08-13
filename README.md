@@ -18,6 +18,6 @@
 | Reverse String| Two Pointers |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Reverse%20String.js)|[YouTube](https://youtu.be/NYKo0ETz3q8)
 | Goal Parser Interpretation| String |[JavaScript](https://github.com/gbrough/LeetCode/blob/main/JavaScript/Goal%20Parser%20Interpretation.js)| |
  Count Items Matching a Rule |   | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Count%20Items%20Matching%20a%20Rule.py) | | 
-  Split a String in Balanced Strings |   | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Count%20Items%20Matching%20a%20Rule.py) | | 
+  Split a String in Balanced Strings |   | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Split%20a%20String%20in%20Balanced%20Strings.py) | | 
 
 
