@@ -20,4 +20,5 @@
  Count Items Matching a Rule | Array, String  | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Count%20Items%20Matching%20a%20Rule.py) |[YouTube](https://www.youtube.com/watch?v=C0OTqaCKazI&ab_channel=KnowledgeMavens) | 
   Split a String in Balanced Strings | String, Greedy, Counting  | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Split%20a%20String%20in%20Balanced%20Strings.py) |[YouTube](https://www.youtube.com/watch?v=_LZx_Kq2dGA&ab_channel=KnowledgeMavens) | 
   Find Center of Star Graph | Graph  | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/Find%20Center%20of%20Star%20Graph.py) | [YouTube](https://www.youtube.com/watch?v=7PEqe4CrIo8&t=155s&ab_channel=KnowledgeMavens) | 
+  XOR Operation in an Array | Math, Bit Manipulation  | [Python](https://github.com/gbrough/LeetCode/blob/main/Python/XOR%20Operation%20in%20an%20Array.py) |  | 
 
